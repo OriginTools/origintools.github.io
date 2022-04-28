@@ -1,12 +1,6 @@
-<link href="./logo-mini.png" rel="icon" type="image/png" />
-<link href="./logo-mini.png" rel="favicon" type="image/png" />
-<link href="./logo-mini.png" rel="shortcut icon" type="image/png" />
+> We are in no way affiliated with or endorsed by Mojang, AB or Piston Solutions.
 
 ![logo](./logo.png)
-
-# OriginTools
-
-> We are in no way affiliated with or endorsed by Mojang, AB or Piston Solutions.
 
 ## Our Tools
 
