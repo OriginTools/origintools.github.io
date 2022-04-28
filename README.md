@@ -1,3 +1,7 @@
+<link href="./logo-mini.png" rel="icon" type="image/png" />
+<link href="./logo-mini.png" rel="favicon" type="image/png" />
+<link href="./logo-mini.png" rel="shortcut icon" type="image/png" />
+
 ![logo](./logo.png)
 
 # OriginTools
